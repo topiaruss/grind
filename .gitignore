@@ -1,0 +1,18 @@
+*.csv
+*.ods
+*.ots
+*.xls
+*.xlsx
+.DS_Store
+.Python
+bin/
+Course reps
+CSV Files/
+Depts/
+include/
+lib/
+Media/
+Officers/
+Partners/
+Socs/
+Staff/
